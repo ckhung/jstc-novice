@@ -1,0 +1,557 @@
+{
+  "RouteUID": "TXG151",
+  "RouteID": "151",
+  "RouteName": {
+    "Zh_tw": "151",
+    "En": "151"
+  },
+  "Direction": 0,
+  "Stops": [
+    {
+      "StopUID": "TXG14325",
+      "StopID": "14325",
+      "StopName": {
+        "Zh_tw": "臺中市議會",
+        "En": "Taichung City Council"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 1,
+      "StopPosition": {
+        "PositionLon": 120.644372,
+        "PositionLat": 24.157865,
+        "GeoHash": "wsmc3mf9c"
+      },
+      "StationID": "1770"
+    },
+    {
+      "StopUID": "TXG21169",
+      "StopID": "21169",
+      "StopName": {
+        "Zh_tw": "中央健保署(文心路)",
+        "En": "NHI Administration(Wenxin Rd.)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 2,
+      "StopPosition": {
+        "PositionLon": 120.64681828,
+        "PositionLat": 24.1576152159,
+        "GeoHash": "wsmc3mu26"
+      },
+      "StationID": "905"
+    },
+    {
+      "StopUID": "TXG210",
+      "StopID": "210",
+      "StopName": {
+        "Zh_tw": "文心第二市政大樓",
+        "En": "Wenxin Second Municipal Building"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 3,
+      "StopPosition": {
+        "PositionLon": 120.6476,
+        "PositionLat": 24.15941,
+        "GeoHash": "wsmc3qhfu"
+      },
+      "StationID": "1251"
+    },
+    {
+      "StopUID": "TXG23801",
+      "StopID": "23801",
+      "StopName": {
+        "Zh_tw": "市政府(專用道)",
+        "En": "Taichung City Hall(Dedicated Road)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 4,
+      "StopPosition": {
+        "PositionLon": 120.649108,
+        "PositionLat": 24.163022,
+        "GeoHash": "wsmc3qtzz"
+      },
+      "StationID": "3910"
+    },
+    {
+      "StopUID": "TXG23803",
+      "StopID": "23803",
+      "StopName": {
+        "Zh_tw": "新光/遠百(專用道)",
+        "En": "Shin Kong Mitsukoshi/Top City Dept. Store(Dedicate"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 5,
+      "StopPosition": {
+        "PositionLon": 120.644034,
+        "PositionLat": 24.165861,
+        "GeoHash": "wsmc3r623"
+      },
+      "StationID": "4763"
+    },
+    {
+      "StopUID": "TXG23805",
+      "StopID": "23805",
+      "StopName": {
+        "Zh_tw": "秋紅谷(專用道)",
+        "En": "Maple Garden(Dedicated Road)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 6,
+      "StopPosition": {
+        "PositionLon": 120.639544,
+        "PositionLat": 24.168974,
+        "GeoHash": "wsmc3pz43"
+      },
+      "StationID": "4761"
+    },
+    {
+      "StopUID": "TXG19645",
+      "StopID": "19645",
+      "StopName": {
+        "Zh_tw": "朝馬2(臺灣大道)",
+        "En": "Chaoma 2 (Taiwan Boulevard)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 7,
+      "StopPosition": {
+        "PositionLon": 120.6356,
+        "PositionLat": 24.1722,
+        "GeoHash": "wsmc90kjm"
+      },
+      "StationID": "4343"
+    },
+    {
+      "StopUID": "TXG19087",
+      "StopID": "19087",
+      "StopName": {
+        "Zh_tw": "高鐵臺中站(第14月台)",
+        "En": "HSR Taichung Station(Platform 14)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 8,
+      "StopPosition": {
+        "PositionLon": 120.615897,
+        "PositionLat": 24.111169,
+        "GeoHash": "wsmc0tmcd"
+      },
+      "StationID": "6982"
+    },
+    {
+      "StopUID": "TXG20095",
+      "StopID": "20095",
+      "StopName": {
+        "Zh_tw": "林森中正路口",
+        "En": "Linsen-Zhongzheng Intersection"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 9,
+      "StopPosition": {
+        "PositionLon": 120.69618,
+        "PositionLat": 24.055611,
+        "GeoHash": "wsmbfe0q0"
+      },
+      "StationID": "4557"
+    },
+    {
+      "StopUID": "TXG20097",
+      "StopID": "20097",
+      "StopName": {
+        "Zh_tw": "林森福新路口",
+        "En": "Linsen-Fuxin Intersection"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 10,
+      "StopPosition": {
+        "PositionLon": 120.6956,
+        "PositionLat": 24.0585,
+        "GeoHash": "wsmbf7xyg"
+      },
+      "StationID": "4559"
+    },
+    {
+      "StopUID": "TXG20062",
+      "StopID": "20062",
+      "StopName": {
+        "Zh_tw": "亞大醫院",
+        "En": "Asia University Hospital"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 11,
+      "StopPosition": {
+        "PositionLon": 120.686426,
+        "PositionLat": 24.05344,
+        "GeoHash": "wsmbf6c1m"
+      },
+      "StationID": "4538"
+    },
+    {
+      "StopUID": "TXG10560",
+      "StopID": "10560",
+      "StopName": {
+        "Zh_tw": "柳豐路(亞大醫院)",
+        "En": "Liufong Rd.(Asia University Hospital)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 12,
+      "StopPosition": {
+        "PositionLon": 120.6848,
+        "PositionLat": 24.0506,
+        "GeoHash": "wsmbf4rbz"
+      },
+      "StationID": "3132"
+    },
+    {
+      "StopUID": "TXG19704",
+      "StopID": "19704",
+      "StopName": {
+        "Zh_tw": "新厝路550巷口",
+        "En": "Xincuo Rd. 550 Ln."
+      },
+      "StopBoarding": 0,
+      "StopSequence": 13,
+      "StopPosition": {
+        "PositionLon": 120.686478,
+        "PositionLat": 24.049335,
+        "GeoHash": "wsmbf611w"
+      },
+      "StationID": "4397"
+    },
+    {
+      "StopUID": "TXG19730",
+      "StopID": "19730",
+      "StopName": {
+        "Zh_tw": "亞洲大學安藤館",
+        "En": "Asia University Ando Museum"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 14,
+      "StopPosition": {
+        "PositionLon": 120.687562,
+        "PositionLat": 24.046621,
+        "GeoHash": "wsmbf3d18"
+      },
+      "StationID": "2650"
+    },
+    {
+      "StopUID": "TXG13588",
+      "StopID": "13588",
+      "StopName": {
+        "Zh_tw": "王厝",
+        "En": "Wangcuo"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 15,
+      "StopPosition": {
+        "PositionLon": 120.688596,
+        "PositionLat": 24.043765,
+        "GeoHash": "wsmbf34c0"
+      },
+      "StationID": "2661"
+    },
+    {
+      "StopUID": "TXG13589",
+      "StopID": "13589",
+      "StopName": {
+        "Zh_tw": "光復國中小(柳豐路)",
+        "En": "KuangFu Junior High and Elementary School(Liufong Rd.)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 16,
+      "StopPosition": {
+        "PositionLon": 120.68992,
+        "PositionLat": 24.043059,
+        "GeoHash": "wsmbf2gsy"
+      },
+      "StationID": "2488"
+    },
+    {
+      "StopUID": "TXG20055",
+      "StopID": "20055",
+      "StopName": {
+        "Zh_tw": "坑口里(光復新村)",
+        "En": "Kengkou Village(Guangfu Community)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 17,
+      "StopPosition": {
+        "PositionLon": 120.692176,
+        "PositionLat": 24.045367,
+        "GeoHash": "wsmbf3m67"
+      },
+      "StationID": "4533"
+    },
+    {
+      "StopUID": "TXG7190",
+      "StopID": "7190",
+      "StopName": {
+        "Zh_tw": "八德橋",
+        "En": "Bade Bridge"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 18,
+      "StopPosition": {
+        "PositionLon": 120.694423,
+        "PositionLat": 24.050705,
+        "GeoHash": "wsmbf6qcx"
+      },
+      "StationID": "1111"
+    },
+    {
+      "StopUID": "TXG14592",
+      "StopID": "14592",
+      "StopName": {
+        "Zh_tw": "省議會",
+        "En": "T.P.C.C."
+      },
+      "StopBoarding": 0,
+      "StopSequence": 19,
+      "StopPosition": {
+        "PositionLon": 120.696788,
+        "PositionLat": 24.05493,
+        "GeoHash": "wsmbfe0dp"
+      },
+      "StationID": "1189"
+    },
+    {
+      "StopUID": "TXG7630",
+      "StopID": "7630",
+      "StopName": {
+        "Zh_tw": "霧峰國小",
+        "En": "Wu Feng Elementary School"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 20,
+      "StopPosition": {
+        "PositionLon": 120.69793,
+        "PositionLat": 24.05764,
+        "GeoHash": "wsmbfe99c"
+      },
+      "StationID": "1223"
+    },
+    {
+      "StopUID": "TXG14035",
+      "StopID": "14035",
+      "StopName": {
+        "Zh_tw": "教育部國教署",
+        "En": "Ministry of Education"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 21,
+      "StopPosition": {
+        "PositionLon": 120.698067,
+        "PositionLat": 24.059738,
+        "GeoHash": "wsmbfecwh"
+      },
+      "StationID": "3677"
+    },
+    {
+      "StopUID": "TXG10370",
+      "StopID": "10370",
+      "StopName": {
+        "Zh_tw": "霧峰郵局(明台高中)",
+        "En": "Wufeng Post Office (Ming Tai Senior High School)"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 22,
+      "StopPosition": {
+        "PositionLon": 120.698504,
+        "PositionLat": 24.062481,
+        "GeoHash": "wsmbfs3yn"
+      },
+      "StationID": "561"
+    },
+    {
+      "StopUID": "TXG7626",
+      "StopID": "7626",
+      "StopName": {
+        "Zh_tw": "霧峰",
+        "En": "Wufeng"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 23,
+      "StopPosition": {
+        "PositionLon": 120.698675,
+        "PositionLat": 24.064103,
+        "GeoHash": "wsmbfsdpd"
+      },
+      "StationID": "1221"
+    },
+    {
+      "StopUID": "TXG7027",
+      "StopID": "7027",
+      "StopName": {
+        "Zh_tw": "中正草湖路口",
+        "En": "Zhongzheng-Caohu Intersection"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 24,
+      "StopPosition": {
+        "PositionLon": 120.6989,
+        "PositionLat": 24.067,
+        "GeoHash": "wsmbft622"
+      },
+      "StationID": "2890"
+    },
+    {
+      "StopUID": "TXG18695",
+      "StopID": "18695",
+      "StopName": {
+        "Zh_tw": "甲寅",
+        "En": "Jiayin"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 25,
+      "StopPosition": {
+        "PositionLon": 120.69928,
+        "PositionLat": 24.0697,
+        "GeoHash": "wsmbftf81"
+      },
+      "StationID": "1166"
+    },
+    {
+      "StopUID": "TXG7632",
+      "StopID": "7632",
+      "StopName": {
+        "Zh_tw": "霧峰農工",
+        "En": "Wufeng Agr. Ind. Senior High School"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 26,
+      "StopPosition": {
+        "PositionLon": 120.699863,
+        "PositionLat": 24.073315,
+        "GeoHash": "wsmbfw6vn"
+      },
+      "StationID": "1226"
+    },
+    {
+      "StopUID": "TXG7628",
+      "StopID": "7628",
+      "StopName": {
+        "Zh_tw": "霧峰分局",
+        "En": "Wufeng Police Precinct"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 27,
+      "StopPosition": {
+        "PositionLon": 120.7011,
+        "PositionLat": 24.0758,
+        "GeoHash": "wsmbfwgge"
+      },
+      "StationID": "6273"
+    },
+    {
+      "StopUID": "TXG7044",
+      "StopID": "7044",
+      "StopName": {
+        "Zh_tw": "全陽社區",
+        "En": "Quanchang Community"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 28,
+      "StopPosition": {
+        "PositionLon": 120.707087517,
+        "PositionLat": 24.0764807568,
+        "GeoHash": "wsmbfybpx"
+      },
+      "StationID": "6188"
+    },
+    {
+      "StopUID": "TXG7064",
+      "StopID": "7064",
+      "StopName": {
+        "Zh_tw": "吉峰社區",
+        "En": "Jifeng Community"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 29,
+      "StopPosition": {
+        "PositionLon": 120.710985,
+        "PositionLat": 24.076938,
+        "GeoHash": "wsmbfz543"
+      },
+      "StationID": "6190"
+    },
+    {
+      "StopUID": "TXG7015",
+      "StopID": "7015",
+      "StopName": {
+        "Zh_tw": "台影文化城",
+        "En": "Taiying Wenhuacheng"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 30,
+      "StopPosition": {
+        "PositionLon": 120.715078,
+        "PositionLat": 24.077073,
+        "GeoHash": "wsmbfzn51"
+      },
+      "StationID": "6182"
+    },
+    {
+      "StopUID": "TXG7061",
+      "StopID": "7061",
+      "StopName": {
+        "Zh_tw": "吉峰里",
+        "En": "Jifeng Village"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 31,
+      "StopPosition": {
+        "PositionLon": 120.71533,
+        "PositionLat": 24.076322,
+        "GeoHash": "wsmbfyynx"
+      },
+      "StationID": "2756"
+    },
+    {
+      "StopUID": "TXG7063",
+      "StopID": "7063",
+      "StopName": {
+        "Zh_tw": "吉峰東路口",
+        "En": "Jifeng E. Rd."
+      },
+      "StopBoarding": 0,
+      "StopSequence": 32,
+      "StopPosition": {
+        "PositionLon": 120.714578,
+        "PositionLat": 24.075047,
+        "GeoHash": "wsmbfytxm"
+      },
+      "StationID": "2760"
+    },
+    {
+      "StopUID": "TXG20064",
+      "StopID": "20064",
+      "StopName": {
+        "Zh_tw": "吉峰東自強路口",
+        "En": "Jifeng E. -Ziqiang Intersection"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 33,
+      "StopPosition": {
+        "PositionLon": 120.715046,
+        "PositionLat": 24.073747,
+        "GeoHash": "wsmbfyqp8"
+      },
+      "StationID": "4541"
+    },
+    {
+      "StopUID": "TXG20105",
+      "StopID": "20105",
+      "StopName": {
+        "Zh_tw": "朝陽科技大學",
+        "En": "Chaoyang University of Technology"
+      },
+      "StopBoarding": 0,
+      "StopSequence": 34,
+      "StopPosition": {
+        "PositionLon": 120.71561,
+        "PositionLat": 24.06997,
+        "GeoHash": "wsmbfvy3t"
+      },
+      "StationID": "2449"
+    }
+  ],
+  "UpdateTime": "2022-02-13T13:33:43+08:00",
+  "VersionID": 2104
+}
